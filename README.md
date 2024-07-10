@@ -9,4 +9,6 @@ crewai_tools,
 langchain,
 Ollama
 
+python == 3.11.5
+
 With the crewai_agents.ipynb file, you can easily run your personal agents in your PC.
